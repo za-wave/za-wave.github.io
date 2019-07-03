@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Let's get on za wave
 
 You can use the [editor on GitHub](https://github.com/za-wave/za-wave.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
